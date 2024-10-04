@@ -12,7 +12,7 @@ Este projeto realiza a análise do desempenho escolar dos alunos nas escolas mun
 
 1. Clone o repositório:
    ```bash
-   git clone <URL_DO_REPOSITORIO>
+   git clone https://github.com/kevynchristian/Programa-o-Orientada-a-Objetos-em-Java.git
 
 2. Navegue até o diretório do projeto:
    ```bash
